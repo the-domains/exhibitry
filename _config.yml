@@ -1,0 +1,11 @@
+layout_spectrum: 0.4992718
+typography_spectrum: 0.2251495
+color:
+  saturation: 0.1995521
+  lightness: 0.7221113
+  brandStrength: 0.9659498
+  brandColors:
+    - '#000000'
+    - '#559DA6'
+  rhythmicContrast: 0.1641093
+name: Exhibitry
