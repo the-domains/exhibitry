@@ -1,11 +1,26 @@
-layout_spectrum: 0.4992718
-typography_spectrum: 0.2251495
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.453405
 color:
   saturation: 0.1995521
-  lightness: 0.7221113
   brandStrength: 0.9659498
+  lightness: 0.7221113
   brandColors:
-    - '#000000'
-    - '#559DA6'
+    - '#0F0F0C'
+    - '#E8E2D6'
+    - '#F2B45B'
+    - '#808074'
+    - '#9CC5DF'
   rhythmicContrast: 0.1641093
+layout_spectrum: 0.4820788
 name: Exhibitry
